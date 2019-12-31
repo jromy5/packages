@@ -1,4 +1,6 @@
 # CLJSJS Packages
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjromy5%2Fpackages.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjromy5%2Fpackages?ref=badge_shield)
+
 
 <img src="http://cljsjs.github.io/cljsjs.svg" alt="CLJSJS logo" align="right" />
 
@@ -38,3 +40,7 @@ has a channel [#cljsjs](https://clojurians.slack.com/messages/cljsjs/) for talk 
 [build.boot]: react/build.boot
 [clojars-cljsjs]: https://clojars.org/groups/cljsjs
 [2727]: https://groups.google.com/d/msg/clojurescript/pJ_EYHkYAUs/mLi8XfiQxZsJ
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjromy5%2Fpackages.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjromy5%2Fpackages?ref=badge_large)
